@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    color: #7bed9f;
 }
 
 ul {
@@ -26,6 +27,7 @@ main {
 }
 
 th,td, tr {
-    border: 1px solid black;
+    border: 1px solid #ffa502;
     padding: 8px;
+    color:#70a1ff
 }
